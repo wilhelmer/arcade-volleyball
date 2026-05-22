@@ -1,0 +1,5 @@
+# DOSBox-X runtime output
+capture/
+
+# macOS
+.DS_Store
